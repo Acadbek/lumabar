@@ -6,6 +6,14 @@
 
 ![lumabar on a Windows 11 desktop](assets/desktop-preview.webp)
 
+## See it in action
+
+[![Watch the lumabar demo on YouTube](assets/demo-video.webp)](https://www.youtube.com/watch?v=fRQ1l9xqBwY)
+
+**Liquid Glass, live:** the dock bends whatever moves behind it, frame by frame. When nothing behind it changes, the glass rests and uses no work. [More about the glass](https://lumabar.xyz/guides/liquid-glass-windows).
+
+![The Liquid Glass dock refracting light that moves behind it](assets/glass-showcase.webp)
+
 ## What lumabar is
 
 lumabar is a desktop app for Windows 11 and Windows 10. It puts one bar on the edge of your screen that holds your apps and live widgets, so the things you check all day are a glance away instead of an app away. While lumabar is open, the Windows taskbar auto-hides (or hides completely, your choice). lumabar never modifies Windows: close it and the taskbar is back as it was.
